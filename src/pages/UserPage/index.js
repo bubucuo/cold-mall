@@ -1,10 +1,10 @@
 import React, {Component} from "react";
 
-export default class IndexPage extends Component {
+export default class UserPage extends Component {
   render() {
     return (
       <div>
-        <h3>IndexPage</h3>
+        <h3>UserPage</h3>
       </div>
     );
   }
